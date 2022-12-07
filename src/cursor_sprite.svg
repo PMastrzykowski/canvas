@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="402" height="100" viewBox="0 0 402 100">
+  <defs>
+    <clipPath id="clip-cursor_sprite">
+      <rect width="402" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="cursor_sprite" clip-path="url(#clip-cursor_sprite)">
+    <path id="Unión_43" data-name="Unión 43" d="M0,25.365H2.194A23.951,23.951,0,0,1,25.245,2.257V0l5.991,3.273L25.245,6.545V4.492A21.74,21.74,0,0,0,4.424,25.365H6.535l-3.267,6Z" transform="translate(9.409 9.409)" fill="#0a0a24"/>
+    <path id="Unión_47" data-name="Unión 47" d="M0,6H2.194a23.936,23.936,0,0,0,7,16.093,23.878,23.878,0,0,0,7.618,5.144,23.734,23.734,0,0,0,8.431,1.87v2.257l5.991-3.273-5.991-3.272v2.053a21.506,21.506,0,0,1-7.563-1.692,21.644,21.644,0,0,1-6.909-4.665A21.708,21.708,0,0,1,4.424,6H6.535L3.268,0Z" transform="translate(210.143 9.409)" fill="#0a0a24"/>
+    <path id="Unión_44" data-name="Unión 44" d="M0,25.365H2.194A23.951,23.951,0,0,1,25.245,2.257V0l5.991,3.273L25.245,6.545V4.492A21.74,21.74,0,0,0,4.424,25.365H6.535l-3.267,6Z" transform="translate(75.255 2.959) rotate(45)" fill="#0a0a24"/>
+    <path id="Unión_46" data-name="Unión 46" d="M0,6H2.194a23.936,23.936,0,0,0,7,16.093,23.878,23.878,0,0,0,7.618,5.144,23.734,23.734,0,0,0,8.431,1.87v2.257l5.991-3.273-5.991-3.272v2.053a21.506,21.506,0,0,1-7.563-1.692,21.644,21.644,0,0,1-6.909-4.665A21.708,21.708,0,0,1,4.424,6H6.535L3.268,0Z" transform="translate(253.81 25.046) rotate(-45)" fill="#0a0a24"/>
+    <path id="Unión_45" data-name="Unión 45" d="M0,6H2.194a23.936,23.936,0,0,0,7,16.093,23.877,23.877,0,0,0,7.618,5.144,23.733,23.733,0,0,0,8.431,1.87v2.257l5.991-3.273-5.991-3.272v2.053a21.506,21.506,0,0,1-7.563-1.692,21.644,21.644,0,0,1-6.909-4.665A21.708,21.708,0,0,1,4.424,6H6.535L3.268,0Z" transform="translate(141.013 40.774) rotate(180)" fill="#0a0a24"/>
+    <path id="Unión_49" data-name="Unión 49" d="M0,25.365H2.194A23.951,23.951,0,0,1,25.245,2.257V0l5.991,3.273L25.245,6.546V4.492A21.74,21.74,0,0,0,4.424,25.365H6.535l-3.267,6Z" transform="translate(197.713 25.137) rotate(135)" fill="#0a0a24"/>
+    <path id="Unión_50" data-name="Unión 50" d="M0,6H2.194a23.937,23.937,0,0,0,7,16.094,23.877,23.877,0,0,0,7.618,5.144,23.733,23.733,0,0,0,8.431,1.87v2.257l5.991-3.273-5.991-3.273v2.053a21.506,21.506,0,0,1-7.563-1.692,21.644,21.644,0,0,1-6.909-4.665A21.708,21.708,0,0,1,4.424,6H6.535L3.268,0Z" transform="translate(376.483 2.959) rotate(45)" fill="#0a0a24"/>
+    <path id="Unión_48" data-name="Unión 48" d="M0,25.365H2.194A23.951,23.951,0,0,1,25.245,2.257V0l5.991,3.273L25.245,6.545V4.492A21.74,21.74,0,0,0,4.424,25.365H6.535l-3.267,6Z" transform="translate(341.746 40.774) rotate(180)" fill="#0a0a24"/>
+    <g id="Grupo_194" data-name="Grupo 194" transform="translate(34.553 80.114) rotate(135)">
+      <path id="Polígono_98" data-name="Polígono 98" d="M3.268,0,6.537,6H0Z" transform="translate(6.537 20.225) rotate(180)" fill="#0a0a24"/>
+      <path id="Trazado_220" data-name="Trazado 220" d="M0,15.52V0" transform="translate(3.268 0)" fill="none" stroke="#0a0a24" stroke-linecap="round" stroke-width="1"/>
+    </g>
+    <g id="Grupo_198" data-name="Grupo 198" transform="translate(220.985 84.738) rotate(-135)">
+      <path id="Polígono_98-2" data-name="Polígono 98" d="M3.268,0,6.537,6H0Z" transform="translate(0 0)" fill="#0a0a24"/>
+      <path id="Trazado_220-2" data-name="Trazado 220" d="M0,0V15.52" transform="translate(3.268 4.705)" fill="none" stroke="#0a0a24" stroke-linecap="round" stroke-width="1"/>
+    </g>
+    <g id="Grupo_196" data-name="Grupo 196" transform="translate(130.298 65.812) rotate(45)">
+      <path id="Polígono_98-3" data-name="Polígono 98" d="M3.269,0,6.537,6H0Z" transform="translate(0 0)" fill="#0a0a24"/>
+      <path id="Trazado_220-3" data-name="Trazado 220" d="M0,0V15.52" transform="translate(3.268 4.705)" fill="none" stroke="#0a0a24" stroke-linecap="round" stroke-width="1"/>
+    </g>
+    <g id="Grupo_200" data-name="Grupo 200" transform="translate(316.73 70.436) rotate(-45)">
+      <path id="Polígono_98-4" data-name="Polígono 98" d="M3.269,0,6.537,6H0Z" transform="translate(6.537 20.225) rotate(180)" fill="#0a0a24"/>
+      <path id="Trazado_220-4" data-name="Trazado 220" d="M0,15.52V0" transform="translate(3.268 0)" fill="none" stroke="#0a0a24" stroke-linecap="round" stroke-width="1"/>
+    </g>
+    <g id="Grupo_197" data-name="Grupo 197" transform="translate(185.755 72.007) rotate(90)">
+      <path id="Polígono_98-5" data-name="Polígono 98" d="M3.269,0,6.537,6H0Z" transform="translate(0 0)" fill="#0a0a24"/>
+      <path id="Trazado_220-5" data-name="Trazado 220" d="M0,0V15.52" transform="translate(3.268 4.705)" fill="none" stroke="#0a0a24" stroke-linecap="round" stroke-width="1"/>
+    </g>
+    <g id="Grupo_201" data-name="Grupo 201" transform="translate(366.264 78.543) rotate(-90)">
+      <path id="Polígono_98-6" data-name="Polígono 98" d="M3.268,0,6.536,6H0Z" transform="translate(0 0)" fill="#0a0a24"/>
+      <path id="Trazado_220-6" data-name="Trazado 220" d="M0,0V15.521" transform="translate(3.268 4.705)" fill="none" stroke="#0a0a24" stroke-linecap="round" stroke-width="1"/>
+    </g>
+    <g id="Grupo_195" data-name="Grupo 195" transform="translate(72.007 65.161)">
+      <path id="Polígono_98-7" data-name="Polígono 98" d="M3.268,0,6.536,6H0Z" transform="translate(0.001)" fill="#0a0a24"/>
+      <path id="Trazado_220-7" data-name="Trazado 220" d="M6356.042,8470.553v15.52" transform="translate(-6352.773 -8465.845)" fill="none" stroke="#0a0a24" stroke-linecap="round" stroke-width="1"/>
+    </g>
+    <g id="Grupo_199" data-name="Grupo 199" transform="translate(272.741 65.161)">
+      <path id="Polígono_98-8" data-name="Polígono 98" d="M3.268,0,6.536,6H0Z" transform="translate(6.536 20.228) rotate(180)" fill="#0a0a24"/>
+      <path id="Trazado_220-8" data-name="Trazado 220" d="M6356.042,8486.07v-15.52" transform="translate(-6352.774 -8470.551)" fill="none" stroke="#0a0a24" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
